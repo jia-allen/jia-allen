@@ -16,8 +16,3 @@ Hi, I'm allenjia.
   地图产品工作室，主要参与腾讯地图 App 与腾讯地图小程序相关前端开发工作
 
 - （2026.6-至今）目前就职于一家工业机器人公司，负责一整条业务线前端开发相关工作
-
-### Find Me
-
-- Yuque Blog: [点击进入](https://www.yuque.com/mashangyou-enl2s)
-- Nowcoder: [点击进入](https://www.nowcoder.com/users/865089147)
